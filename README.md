@@ -50,3 +50,6 @@ wasm-pack test --headless --firefox
 ```
 wasm-pack publish
 ```
+
+## Reference
+https://rustwasm.github.io/book/
